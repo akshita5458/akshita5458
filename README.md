@@ -19,9 +19,14 @@ I am a passionate Data Science enthusiast with a strong interest in machine lear
 - **Tools:** Jupyter Notebook, Google Colab, 
 
 ## 📊 Projects
-Here are some the notable Projects:
+Here are some of my notable Projects:
+
 1.[CAR PRICE PREDICTION]:(https://github.com/akshita5458/CAR-PRICE-PREDICTION)
+
+
 2.[IPL Winning Team Prediction]:(
+
+
 3.[
 
 [LinkedPOST]()
