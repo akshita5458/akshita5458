@@ -5,6 +5,7 @@ I am a passionate Data Science enthusiast with a strong interest in machine lear
 ## 🚀About Me
 - 🎓 I'm currently pursuing a B.Tech in Computer Science with a specialization in Data Science at JSS Academy of Technical Education, Noida.
 - 🪲 I'm well versed in Data Science Fundamentals,Machine Learning,Statistical Inference,Data Vizualization.
+- 🌱 I'm constantly learning and improving my skills in Data Analysis and Machine Learning and seeking the opportunities for the same.
 
 ## 🏢 What I'm Working On
 - 🔭 I’m currently working on various projects related to Data Science and Vizualization , Prediction.
