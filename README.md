@@ -25,7 +25,8 @@ Here are some of my notable Projects:
 1.[CAR PRICE PREDICTION](https://github.com/akshita5458/CAR-PRICE-PREDICTION)
 
 
-2.[IPL Winning Team Prediction]:(
+
+2.[IPL Winning Team Prediction](https://github.com/akshita5458/IPL_winning-Team-prediction)
 
 
 3.[
