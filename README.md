@@ -31,6 +31,8 @@ Here are some of my notable Projects:
 
 3.[Breast_Cancer_Classification](https://github.com/akshita5458/Breast_cancer-_classification)
 
+4.[Diabetes_Prediction](https://github.com/akshita5458/Diabetes-Prediction)
+
 [LinkedPOST]()
 
 ## 📫 Let's Connect
