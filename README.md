@@ -22,7 +22,7 @@ I am a passionate Data Science enthusiast with a strong interest in machine lear
 ## 📊 Projects
 Here are some of my notable Projects:
 
-1.[CAR PRICE PREDICTION](https://github.com/akshita5458/CAR-PRICE-PREDICTION)
+1.[Car_Price_Prediction](https://github.com/akshita5458/CAR-PRICE-PREDICTION)
 
 
 
