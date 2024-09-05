@@ -15,7 +15,7 @@ I am a passionate Data Science enthusiast with a strong interest in machine lear
 - **Programming Languages:** Python,SQL, C
 - **Data Analysis:** Pandas, NumPy
 - **Machine Learning:** Scikit-Learn, TensorFlow
-- **Data Visualization:** Matplotlib, Seaborn, Plotly
+- **Data Visualization:** Matplotlib, Seaborn, Plotly, PowerBI
 - **Database:** MySQL (Learning)
 - **Tools:** Jupyter Notebook, Google Colab, 
 
