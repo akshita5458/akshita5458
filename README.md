@@ -22,18 +22,27 @@ I am a passionate Data Science enthusiast with a strong interest in machine lear
 ## 📊 Projects
 Here are some of my notable Projects:
 
-1.[Car_Price_Prediction](https://github.com/akshita5458/CAR-PRICE-PREDICTION)
+  1.[Car_Price_Prediction](https://github.com/akshita5458/CAR-PRICE-PREDICTION)
+     - [LinkedIn Post](https://www.linkedin.com/posts/akshita-s-13b239251_hi-linkedin-community-as-part-of-my-activity-7237243646754865152-Td5T?utm_source=share&utm_medium=member_desktop)
 
 
 
 2.[IPL Winning Team Prediction](https://github.com/akshita5458/IPL_winning-Team-prediction)
+   - [LinkedIn Post](https://www.linkedin.com/posts/akshita-s-13b239251_machinelearning-iplabrwinningabrteamabrprediction-activity-7237258884363546624-wpJW?utm_source=share&utm_medium=member_desktop)
 
 
 3.[Breast_Cancer_Classification](https://github.com/akshita5458/Breast_cancer-_classification)
+     - [LinkedIn Post](https://www.linkedin.com/posts/akshita-s-13b239251_breastcancerclassification-python-machinelearning-activity-7237253350780481537-AVmv?utm_source=share&utm_medium=member_desktop)
+
+
 
 4.[Diabetes_Prediction](https://github.com/akshita5458/Diabetes-Prediction)
+      - [LinkedIn Post](https://www.linkedin.com/posts/akshita-s-13b239251_diabetesprediction-python-activity-7237255978868441088-0_Ps?utm_source=share&utm_medium=member_desktop)
 
-[LinkedPOST]()
+
+
+
+
 
 ## 📫 Let's Connect
 
