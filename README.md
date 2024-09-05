@@ -17,7 +17,7 @@ I am a passionate Data Science enthusiast with a strong interest in machine lear
 - **Machine Learning:** Scikit-Learn, TensorFlow
 - **Data Visualization:** Matplotlib, Seaborn, Plotly, PowerBI
 - **Database:** MySQL (Learning)
-- **Tools:** Jupyter Notebook, Google Colab, 
+- **Tools:** Jupyter Notebook, Google Colab, Vscode 
 
 ## 📊 Projects
 Here are some of my notable Projects:
