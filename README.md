@@ -45,8 +45,9 @@ Here are some of my notable Projects:
 
 
 
+5.[Enhanced Weather Prediction](https://github.com/akshita5458/Weather-Prediction-Forecast)
 
-
+  -[LinkedIn Post](https://www.linkedin.com/in/akshita-s-13b239251/)
 
 ## 📫 Let's Connect
 
