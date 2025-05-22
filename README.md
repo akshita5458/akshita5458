@@ -3,7 +3,7 @@ I am a passionate Data Science enthusiast with a strong interest in machine lear
 
 
 ## 🚀About Me
-- 🎓 I'm currently pursuing a B.Tech in Computer Science with a specialization in Data Science at JSS Academy of Technical Education, Noida.
+- 🎓 I'm an Engineer done my B.Tech in Computer Science with a specialization in Data Science from JSS Academy of Technical Education, Noida.
 - 🪲 I'm well versed in Data Science Fundamentals,Machine Learning,Statistical Inference,Data Vizualization.
 - 🌱 I'm constantly learning and improving my skills in Data Analysis and Machine Learning and seeking the opportunities for the same.
 
@@ -48,6 +48,11 @@ Here are some of my notable Projects:
 5.[Enhanced Weather Prediction](https://github.com/akshita5458/Weather-Prediction-Forecast)
 
   - [LinkedIn Post](https://www.linkedin.com/in/akshita-s-13b239251/)
+
+
+6.[TrustSeal](https://github.com/akshita5458/Blockchain-Fraud-Detect)
+
+-[LinkedIn Post](https://www.linkedin.com/posts/akshita-s-13b239251_im-happy-to-share-that-im-starting-a-new-activity-7326624789702340608-Xuq5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4mGH8Bau8NTt74fJUE0ru0tGEKj6VKSS0)
 
 ## 📫 Let's Connect
 
