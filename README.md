@@ -52,8 +52,7 @@ Here are some of my notable Projects:
 
 6.[TrustSeal](https://github.com/akshita5458/Blockchain-Fraud-Detect)
 
-    - [LinkedIn Post](https://www.linkedin.com/posts/akshita-s-13b239251_im-happy-to-share-that-im-starting-a-new-activity-7326624789702340608-Xuq5? 
-                        utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4mGH8Bau8NTt74fJUE0ru0tGEKj6VKSS0)
+ - [LinkedIn Post](https://www.linkedin.com/posts/akshita-s-13b239251_im-happy-to-share-that-im-starting-a-new-activity-7326624789702340608-Xuq5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4mGH8Bau8NTt74fJUE0ru0tGEKj6VKSS0)
 
 ## 📫 Let's Connect
 
