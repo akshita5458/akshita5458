@@ -57,7 +57,7 @@ Here are some of my notable Projects:
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/akshita-s-13b239251/)
-- [Email](mailto:akshitasharma5458@gmail.com)
+- [Email](mailto:akshitasharma2831@gmail.com)
 
 Feel free to explore my projects and reach out if you'd like to collaborate or chat about anything related to data science. Looking forward to connecting with you! 😊
 
